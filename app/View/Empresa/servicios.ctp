@@ -33,7 +33,7 @@
                     <div class="row services-other">
                         <div class="col-sm-4">
                             <div class="img-box">
-                                <img src="weebroot/images/garantia.png" alt="SHELL CHEMICALS" />
+                                <img src="images/garantia.png" alt="GARANTÍA" />
                             </div>
                             <div class="services-info">
                                 <h4 class="services-title-one subtitle">GARANTÍA</h4>
@@ -43,7 +43,7 @@
 
                         <div class="col-sm-4">
                             <div class="img-box">
-                                <img src="images/calidad.png" alt="COMMERCIAL FUELS" />
+                                <img src="images/construccion.jpg" alt="CALIDAD" />
                             </div>
                             <div class="services-info">
                                 <h4 class="services-title-one subtitle">CALIDAD</h4>
@@ -53,7 +53,7 @@
 
                         <div class="col-sm-4">
                             <div class="img-box">
-                                <img src="images/confianza.png" alt="AVIATION FUELS" />
+                                <img src="/images/confianza.png" alt="CONFIANZA" />
                             </div>
                             <div class="services-info">
                                 <h4 class="services-title-one subtitle">CONFIANZA</h4>

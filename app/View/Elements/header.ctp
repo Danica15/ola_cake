@@ -60,13 +60,14 @@
                     <li class="dropdown"><a href="#" data-toggle="dropdown"> Productos
                         <i class="fa fa-chevron-down dropdown-toggle"> </i>  </a>
                         <ul>
-                            <li> <a href="services.html"> Maquinaria Agrícola </a> </li>
-                            <li> <a href="services-list.html"> Maquinaria de Construcción </a> </li>
-                            <li> <a href="services-single.html"> Transporte </a> </li>
+                            <li><?php echo $this->HTML->link('Maquinaria Agrícola', array( 'controller'=> 'productos', 'action'=> 'agricola'))  ?>  </li>
+                            <li><?php echo $this->HTML->link('Maquinaria de Construcción', array( 'controller'=> 'productos', 'action'=> 'construccion'))  ?></li>
+                            <li><?php echo $this->HTML->link('Maquinaria de Transporte y Buses', array( 'controller'=> 'productos', 'action'=> 'transporte'))  ?></a> </li>
                         </ul>
                     </li>
-                    <li><?php echo $this->HTML->link('REGISTRARSE', array( 'controller'=> 'registro', 'action'=> 'index'))  ?>  </li>
-                    <li><a href="Iniciar Sesion.html"> INICIAR SESION </a> </li>
+                    <li><?php echo $this->HTML->link('REGISTRARSE', array( 'controller'=> 'Users', 'action'=> 'add'))  ?>  </li>
+                    <li><?php echo $this->HTML->link('INICIAR SESIÓN', array( 'controller'=> 'Users', 'action'=> 'login'))  ?> </li>
+                    <li><?php echo $this->HTML->link('COTIZACIONES Y PEDIDOS', array( 'controller'=> 'Users', 'action'=> 'login'))  ?> </li>
                 </ul>
             </div>
         </nav>
