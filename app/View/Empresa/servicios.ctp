@@ -31,37 +31,37 @@
                     </div>
 
                     <div class="row services-other">
-                        <div class="col-sm-4">
-                            <div class="img-box">
-                                <img src="images/garantia.png" alt="GARANTÍA" />
+                            <div class="col-sm-4">
+                                <div class="img-box">
+                                    <img src="images/garantia.png" alt="GARANTÍA" />
+                                </div>
+                                <div class="services-info">
+                                    <h4 class="services-title-one subtitle">GARANTÍA</h4>
+                                    <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
+                                </div>
                             </div>
-                            <div class="services-info">
-                                <h4 class="services-title-one subtitle">GARANTÍA</h4>
-                                <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
-                            </div>
-                        </div>
 
-                        <div class="col-sm-4">
-                            <div class="img-box">
-                                <img src="images/construccion.jpg" alt="CALIDAD" />
+                            <div class="col-sm-4">
+                                <div class="img-box">
+                                    <img src="images/construccion.jpg" alt="CALIDAD" />
+                                </div>
+                                <div class="services-info">
+                                    <h4 class="services-title-one subtitle">CALIDAD</h4>
+                                    <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
+                                </div>
                             </div>
-                            <div class="services-info">
-                                <h4 class="services-title-one subtitle">CALIDAD</h4>
-                                <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
-                            </div>
-                        </div>
 
-                        <div class="col-sm-4">
-                            <div class="img-box">
-                                <img src="/images/confianza.png" alt="CONFIANZA" />
+                            <div class="col-sm-4">
+                                <div class="img-box">
+                                    <img src="/images/confianza.png" alt="CONFIANZA" />
+                                </div>
+                                <div class="services-info">
+                                    <h4 class="services-title-one subtitle">CONFIANZA</h4>
+                                    <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
+                                </div>
                             </div>
-                            <div class="services-info">
-                                <h4 class="services-title-one subtitle">CONFIANZA</h4>
-                                <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
-                            </div>
-                        </div>
 
-                        <div class="clearfix spacer-90"></div>
+                            <div class="clearfix spacer-90"></div>
 
                     </div>
 
